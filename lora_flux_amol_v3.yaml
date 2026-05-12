@@ -1,7 +1,7 @@
 ---
 job: "extension"
 config:
-  name: "my_first_lora_v2"
+  name: "lora_flux_amol_v3"
   process:
     - type: "diffusion_trainer"
       training_folder: "/home/amold163/ai-toolkit/output"
